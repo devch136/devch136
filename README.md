@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Dev 👋
 
-<!--
-**devch136/devch136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 👨‍💻 **Java Full Stack Developer** (Spring Boot, Angular/React)
+- 🌐 Diving into **Web3** & **Solidity** for smart contract development
+- 🔧 Working with **Foundry** & **Hardhat** for Ethereum projects
+- 🚀 Passionate about **blockchain**, **DeFi**, and **dApps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- 💬 [LinkedIn](https://www.linkedin.com/in/dev-chaudhary136/) | [Twitter](https://x.com/chdev77)
+
+---
+
+Thanks for visiting! 🚀
